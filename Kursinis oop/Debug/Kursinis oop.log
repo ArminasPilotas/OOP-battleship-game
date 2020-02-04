@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Kursinis oop.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Kursinis oop.vcxproj -> C:\Users\Kompiuteris\source\repos\Kursinis oop\Debug\Battleship game.exe
